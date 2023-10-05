@@ -1,4 +1,4 @@
 # Demo
 
-Testing a few lines here!
-Git is so exciting,
+Testing a few lines here.
+Git is so exciting!
